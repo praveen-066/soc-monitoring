@@ -1,0 +1,16 @@
+# Data volumes
+grafana-data/
+prometheus-data/
+loki-data/
+*/data/
+
+# Env / secrets
+.env
+*.env
+secrets/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
